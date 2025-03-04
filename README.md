@@ -12,4 +12,5 @@ The 3 sections of the test can be found in the following files:
     - This file holds the query to answer section three of the test.
     - This file can be opened as a Jupyter Notebook. Information of dependencies and packages are described in this file.
 
-Datasets are in CSV format, there are 3 of them. These will need to be downloaded and placed in your working directory prior to opening sections 2 & 3
+Datasets are in CSV format, there are 4 of them. These will need to be downloaded and placed in your working directory prior to opening sections 2 & 3
+* I cannot upload fullbas as file is too large for github, but I assume you guys will have access to it.
